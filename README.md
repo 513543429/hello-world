@@ -6,4 +6,5 @@
 
 # my name is yanjinfeng!
 
-![](E:\github\helloworld\hello-world\pic\linux.jpg)
+![](\pic\linux.jpg)
+
