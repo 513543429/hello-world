@@ -6,5 +6,5 @@
 
 # my name is yanjinfeng!
 
-![](pic\linux.jpg)
+![abc](pic\linux.jpg)
 
